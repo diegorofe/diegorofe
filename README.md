@@ -1,5 +1,5 @@
 ## Oi! Eu sou o Diêgo Rodrigues
-📚 Atualmente estou estudando JavaScript <br>
+📚 Atualmente estudando JavaScript <br>
 💻Sou um apaixonado pela TI que está em transição profissional, atualmente na mecânica e indo para a área de TI-Tecnologia da Informação
 
 <div>
