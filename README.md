@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/diegorofe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegorofe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorofe&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegorofe&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorofe&layout=compact&langs_count=7&theme=white"/>
 </div>
   <div>
     <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/github/followers/diegorofe.svg?style=social&label=Follow&maxAge=2592000">
