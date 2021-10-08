@@ -1,26 +1,27 @@
 ## Oi! Eu sou o Diêgo Rodrigues
 📚 Atualmente estudando JavaScript <br>
-💻Sou um apaixonado pela TI que está em transição profissional, atualmente na mecânica e indo para a área de TI-Tecnologia da Informação
+💻Sou um apaixonado pela TI que está em transição profissional, atualmente na mecânica e indo para a área de Desenvolvimento Full Stack
 
 <div>
   <a href="https://github.com/diegorofe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegorofe&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorofe&layout=compact&langs_count=7&theme=white"/>
 </div>
-  <div>
-    <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/github/followers/diegorofe.svg?style=social&label=Follow&maxAge=2592000">
-  </div>
-
-   #### Algumas tecnologias já utilizadas 
+ 
+  #### Algumas tecnologias já utilizadas 
 <div style="display: inline_block">
-  <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Diego-Java" height="30" width="40"   src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">  
+   <img align="center" alt="Diego-Java" height="20" width="40"   src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">  
+    <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Diego-Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+    <img align="center" alt="Diego-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Diego-InteliJ" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Diego-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-   <img align="center" alt="Diego-InteliJ" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Diego-Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+
+
+
   
 
 
