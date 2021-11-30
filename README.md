@@ -1,5 +1,5 @@
 ## Oi! Eu sou o Diêgo Rodrigues
-📚 Atualmente estudando JavaScript <br>
+📚 Atualmente estudando React.Js <br>
 💻Sou um apaixonado pela TI que está em transição profissional, atualmente na mecânica e indo para a área de Desenvolvimento Full Stack
 
 <div>
@@ -16,7 +16,8 @@
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Diego-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
-    <img align="center" alt="Diego-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">🔸
+    <img align="center" alt="Diego-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Diego-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">🔸
       <img align="center" alt="Diego-InteliJ" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Diego-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> 🔸
   <img align="center" alt="Diego-Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
