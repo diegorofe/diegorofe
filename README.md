@@ -1,5 +1,5 @@
 ## Oi! Eu sou o Diêgo Rodrigues
-📚 Atualmente estudando Node.js e MongoDB <br>
+📚 Atualmente estudando JSF <br>
 💻Sou um apaixonado pela TI que está em transição profissional, atualmente na mecânica e indo para a área de Desenvolvimento Full Stack
 
 <div>
