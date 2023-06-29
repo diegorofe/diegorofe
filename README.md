@@ -1,5 +1,5 @@
 ## Oi! Eu sou o Diêgo Rodrigues
-📚 Atualmente estudando JSF <br>
+📚 Atualmente trabalhando com Java(Spring) e React.js<br>
 💻Sou um apaixonado pela TI que está em transição profissional, atualmente na mecânica e indo para a área de Desenvolvimento Full Stack
 
 <div>
